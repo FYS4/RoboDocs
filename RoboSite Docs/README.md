@@ -2,31 +2,31 @@
 
 # Inhoudsopgave
 * Structuur
-    * [WebServer](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#webserver)
-    * [Database](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#Database)
-    * [Master](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#master)
-    * [Worker](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#worker)
+    * [WebServer](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#webserver)
+    * [Database](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#Database)
+    * [Master](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#master)
+    * [Worker](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#worker)
 * Design
     * Login
-        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#laptop)
-        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#tablet)
-        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#mobiel)
+        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#laptop)
+        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#tablet)
+        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#mobiel)
     * Reset
-        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#laptop-1)
-        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#tablet-1)
-        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#mobiel-1)
+        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#laptop-1)
+        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#tablet-1)
+        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#mobiel-1)
     * Album
-        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#laptop-2)
-        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#tablet-2)
-        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#mobiel-2)
+        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#laptop-2)
+        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#tablet-2)
+        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#mobiel-2)
     * Foto
-        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#laptop-3)
-        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#tablet-3)
-        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#mobiel-3)
+        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#laptop-3)
+        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#tablet-3)
+        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#mobiel-3)
     * Account
-        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#laptop-4)
-        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#tablet-4)
-        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/edit/master/RoboSite%20Docs/README.md#mobiel-4) 
+        * [Laptop](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#laptop-4)
+        * [Tablet](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#tablet-4)
+        * [Telefoon](https://gitlab.fdmci.hva.nl/RoboBooth/RoboDocs/tree/master/RoboSite%20Docs#mobiel-4) 
 
 # Structuur
 ## WebServer
