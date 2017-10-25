@@ -5,6 +5,6 @@
 
 ## RoboBooth Decompositie
 ![RoboBooth Decompositie](Product Decompositie.png)
-<hr>
+<br>
 ## RoboSite Decompositie
 ![RoboBooth Decompositie](Website Decompositie.png)
